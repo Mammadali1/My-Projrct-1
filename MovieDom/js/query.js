@@ -1,0 +1,10 @@
+export const container = document.querySelector('#popularMovieContainer');
+export const comedyContainer = document.querySelector('#bestComedyContainer')
+export const actionContainer = document.querySelector('#actionMovieContainer');
+export const popularLeftBtn = document.querySelector('#popularLeftBtn');
+export const popularRightBtn = document.querySelector('#popularRightBtn');
+export const bestLeftBtn = document.querySelector('#bestLeftBtn');
+export const bestRightBtn = document.querySelector('#bestRightBtn');
+export const actionLeftBtn = document.querySelector('#actionLeftBtn');
+export const actionRightBtn = document.querySelector('#actionRightBtn');
+export const videosContainer = document.querySelector('#videosContainer');
